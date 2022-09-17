@@ -30,7 +30,7 @@ const Navbar = () => {
             </ul>
             <a
               href="#"
-              className="font-pop font-semibold text-white text-base inline-block border border-solid border-white py-3 px-8 ml-16"
+              className="font-pop font-semibold text-white text-base inline-block border border-solid border-white py-3 px-8 ml-16 "
             >
               CONTACT
             </a>

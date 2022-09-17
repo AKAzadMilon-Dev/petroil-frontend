@@ -9,7 +9,8 @@ module.exports = {
       colors:{
         'primary': '#F40404',
         'para' : '#6C6C6C',
-        'yellow': '#FFB800'
+        'yellow': '#FFB800',
+        'darklight': 'rgba(0, 0, 0, 0.6)'
       },
       maxWidth: {
         'container': '1144px',
