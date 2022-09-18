@@ -4,16 +4,16 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'pop': ['Poppins', 'sans-serif'],
+        pop: ["Poppins", "sans-serif"],
       },
-      colors:{
-        'primary': '#F40404',
-        'para' : '#6C6C6C',
-        'yellow': '#FFB800',
-        'darklight': 'rgba(0, 0, 0, 0.6)'
+      colors: {
+        primary: "#F40404",
+        para: "#6C6C6C",
+        yellow: "#FFB800",
+        darklight: "rgba(0, 0, 0, 0.6)",
       },
       maxWidth: {
-        'container': '1144px',
+        container: "1144px",
       },
     },
   },

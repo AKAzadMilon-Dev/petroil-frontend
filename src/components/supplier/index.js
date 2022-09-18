@@ -11,7 +11,7 @@ const Supplier = () => {
             </h2>
           </div>
           <div className="max-w-[651px] flex items-center">
-            <p className="font-pop font-medium ">
+            <p className="font-pop font-medium text-para leading-6">
               It is a long established fact that a reader will be distracted by
               the readable content of a page when looking at its layout. The
               point of using Lorem Ipsum is that it has a more-or-less normal
