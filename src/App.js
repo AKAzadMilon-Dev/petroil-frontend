@@ -1,4 +1,5 @@
 import Banner from "./components/banner";
+import Blog from "./components/blog";
 import Brand from "./components/brand";
 import Company from "./components/company";
 import Header from "./components/header";
@@ -16,6 +17,7 @@ function App() {
       <Service/>
       <Company/>
       <Brand/>
+      <Blog/>
     </>
   );
 }
