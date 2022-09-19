@@ -1,4 +1,5 @@
 import Banner from "./components/banner";
+import Company from "./components/company";
 import Header from "./components/header";
 import Navbar from "./components/navbar";
 import Service from "./components/service";
@@ -12,6 +13,7 @@ function App() {
       <Banner/>
       <Supplier/>
       <Service/>
+      <Company/>
     </>
   );
 }
