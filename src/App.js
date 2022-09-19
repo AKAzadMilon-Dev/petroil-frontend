@@ -4,6 +4,7 @@ import Brand from "./components/brand";
 import Company from "./components/company";
 import Header from "./components/header";
 import Maps from "./components/maps";
+import Member from "./components/member";
 import Navbar from "./components/navbar";
 import Service from "./components/service";
 import Supplier from "./components/supplier";
@@ -20,6 +21,7 @@ function App() {
       <Brand/>
       <Blog/>
       <Maps/>
+      <Member/>
     </>
   );
 }
