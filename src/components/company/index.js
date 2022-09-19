@@ -10,7 +10,7 @@ const Company = () => {
           </h2>
         </div>
         <div
-          className="w-[726px] h-[361px] px-[280px] py-[160px]"
+          className="w-[726px] h-[361px] flex justify-center items-center"
           style={{ background: "url(assets/images/company.png)" }}
         >
           <a
