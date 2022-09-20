@@ -17,15 +17,15 @@ const Header = () => {
               mail@yourcompany.com
             </p>
             <p className="font-pop text-xs font-normal relative pl-6 text-white ml-16">
-              <BiPhoneCall className="absolute top-0 left-0 w-5 h-5"/>
+              <BiPhoneCall className="absolute top-0 left-0 w-5 h-5" />
               +896 120 5889 (Toll free)
             </p>
           </div>
           <div className="w-2/4 flex justify-end gap-x-5 ">
-            <FaFacebookF className="text-white w-4 h-4"/>
-            <AiOutlineTwitter className="text-white w-4 h-4"/>
-            <ImLinkedin2 className="text-white w-4 h-4"/>
-            <BsInstagram className="text-white w-4 h-4"/>
+            <FaFacebookF className="text-white w-4 h-4" />
+            <AiOutlineTwitter className="text-white w-4 h-4" />
+            <ImLinkedin2 className="text-white w-4 h-4" />
+            <BsInstagram className="text-white w-4 h-4" />
           </div>
         </div>
       </div>

@@ -4,7 +4,7 @@ const Maps = () => {
   return (
     <section>
       <div
-        className="w-[1920px] h-[450px]"
+        className="h-[450px]"
         style={{ background: "url(assets/images/maps.png)" }}
       ></div>
     </section>

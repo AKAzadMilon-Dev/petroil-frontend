@@ -2,6 +2,8 @@ import Banner from "./components/banner";
 import Blog from "./components/blog";
 import Brand from "./components/brand";
 import Company from "./components/company";
+import Copy from "./components/copyright";
+import Footer from "./components/footer";
 import Header from "./components/header";
 import Maps from "./components/maps";
 import Member from "./components/member";
@@ -22,6 +24,8 @@ function App() {
       <Blog/>
       <Maps/>
       <Member/>
+      <Footer/>
+      <Copy/>
     </>
   );
 }
